@@ -1,0 +1,1 @@
+#Crear ciclo for que permita ingresar 10 numero. Mostrar cuantos son numeros pares y cuantos son inpares
